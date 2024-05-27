@@ -1,4 +1,6 @@
 
+cmake_minimum_required(VERSION 3.7)
+project(testee_server)
 file (GLOB SOURCE_FILES *.cpp)
 file (GLOB HEADER_FILES *.hpp)
 
